@@ -1,0 +1,17 @@
+h1{
+	font-family: "Times New Roman";
+	
+}
+.gg{
+	margin-bottom: 0px;
+
+	border:5px solid pink;
+	margin-left: 50px;
+	margin-right: 50px;
+	background-color: pink;
+}
+.kk{
+	font-size: 3rem;
+	padding:0px;
+	margin :auto 0;
+}
